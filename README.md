@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bharathkumar Reddy Chitteti
 - 👀 I’m interested in Cloud and Web Technologies
 - 🌱 I’m currently working as a Software Engineer - Fullstack Developer @Projak Infotech Pvt Ltd
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ www.bharathreddych.tech or hello@bharathreddych.tech or hellobharathreddy@gmail.com
 
 <!---
